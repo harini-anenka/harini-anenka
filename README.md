@@ -37,3 +37,8 @@ I’m particularly interested in **data analysis concepts** such as:
 
 ---
 
+## 📖 Currently Exploring  
+
+- **Google BigQuery** for large-scale data analysis  
+- SQL optimization  
+- **Statistics for Data Analytics** — hypothesis testing, probability, regression, and other concepts that strengthen analytical decision-making  
