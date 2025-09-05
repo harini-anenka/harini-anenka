@@ -35,10 +35,4 @@ I’m particularly interested in **data analysis concepts** such as:
   Performed exploratory data analysis using **Python**. Created visualizations with **Matplotlib and Seaborn** to uncover patterns in workplace mental health and identify key influencing factors.  
 
 
----
 
-## 📖 Currently Exploring  
-
-- **Google BigQuery** for large-scale data analysis  
-- SQL optimization  
-- **Statistics for Data Analytics** — hypothesis testing, probability, regression, and other concepts that strengthen analytical decision-making  
