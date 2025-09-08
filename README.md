@@ -34,5 +34,6 @@ I’m particularly interested in **data analysis concepts** such as:
 - **[Mental Health Survey Analysis](https://github.com/harini-anenka/Mental-Health-Survey-Analysis)**  
   Performed exploratory data analysis using **Python**. Created visualizations with **Matplotlib and Seaborn** to uncover patterns in workplace mental health and identify key influencing factors.  
 
-
+- **[Bharat-Herald digital transition](https://github.com/harini-anenka/newspaper-market-trends-code-basics)**
+  Analyzed Bharat Herald’s print decline and digital readiness (2019–2024) using MySQL & Tableau to generate strategic media insights.
 
