@@ -27,13 +27,12 @@ I’m particularly interested in **data analysis concepts** such as:
 
 - **[NYPD Calls for Service SQL Analysis (2024 Q1–Q3)](https://github.com/harini-anenka/nypd-calls-for-service-2024-sql-analysis)**  
   Processed ~5M records in **PostgreSQL**. Performed data cleaning and wrote **descriptive & ad-hoc SQL queries** to answer operational questions such as call trends, peak hours, and high-demand precincts.
-
-- **[Google Playstore Apps Analysis](https://github.com/harini-anenka/google-playstore-apps-analysis)**  
-  Explored 2M+ records to analyze app ratings, installs, and revenue trends. Built an interactive Power BI dashboard to present findings.
   
 - **[Mental Health Survey Analysis](https://github.com/harini-anenka/Mental-Health-Survey-Analysis)**  
   Performed exploratory data analysis using **Python**. Created visualizations with **Matplotlib and Seaborn** to uncover patterns in workplace mental health and identify key influencing factors.  
 
-- **[Bharat-Herald digital transition](https://github.com/harini-anenka/newspaper-market-trends-code-basics)**
+- **[Bharat-Herald digital transition](https://github.com/harini-anenka/newspaper-market-trends-code-basics)**                                                               
   Analyzed Bharat Herald’s print decline and digital readiness (2019–2024) using MySQL & Tableau to generate strategic media insights.
 
+- **[Google Playstore Apps Analysis](https://github.com/harini-anenka/google-playstore-apps-analysis)**  
+  Explored 2M+ records to analyze app ratings, installs, and revenue trends. Built an interactive Power BI dashboard to present findings.
